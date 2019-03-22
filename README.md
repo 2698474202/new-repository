@@ -1,2 +1,2 @@
 # new-repository
-just a teat
+just a test
